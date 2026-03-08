@@ -9,7 +9,7 @@ storyText:
   - "3D Print Architecture covers the full spectrum of architectural additive manufacturing — from the desktop model that wins a competition to the robotic concrete extrusion that builds the wall."
   - "Our editorial team includes architects, fabrication engineers, and computational designers with real project experience across scale models, concrete construction, facade panel manufacturing, and parametric design-to-fabrication workflows."
   - "We have direct experience using 3D printed sand molds for cast aluminum architectural installations, parametric surface development for complex facades, and computational design workflows spanning Grasshopper, Rhino, and robotic fabrication environments."
-storyImage: "https://images.unsplash.com/photo-1624841970647-87dce8628d72?w=800&q=80"
+storyImage: "/images/02_parametric_struct.png"
 
 missionCards:
   - icon: "🏗️"

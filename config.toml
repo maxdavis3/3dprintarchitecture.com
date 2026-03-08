@@ -9,7 +9,7 @@ description   = "3D Print Architecture — precision scale models, robotic concr
 keywords      = "architectural 3D printing, concrete 3D printing, scale models, facade printing, GRC panels, robotic construction, parametric architecture, building AM, construction 3D printing"
 logoEmoji     = "🏗️"
 contactEmail  = "maxdavisgroup@gmail.com"
-ogImage       = "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1200&q=80"
+ogImage       = "/images/04_printer_active.png"
 footerServicesLabel = "Services"
 
 colorPrimary      = "#e8724a"
@@ -28,9 +28,9 @@ fontSecondary = "Nunito"
 pubmedQuery        = "additive+manufacturing+construction+concrete+3D+printing+architecture"
 pubmedFallback     = "construction+3D+printing+additive+manufacturing"
 newsFallbackImages = [
-  "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=600&q=80",
-  "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=600&q=80",
-  "https://images.unsplash.com/photo-1496307653780-42ee777d4833?w=600&q=80",
+  "/images/03_wall_panels.png",
+  "/images/05_facade_gradient.png",
+  "/images/14_ornament_detail.png",
 ]
 
 heroEyebrow  = "Architectural Additive Manufacturing"
@@ -40,7 +40,7 @@ heroCta1Text = "Explore Services"
 heroCta1URL  = "/services/"
 heroCta2Text = "Get a Quote"
 heroCta2URL  = "/contact/"
-heroImage    = "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1200&q=80"
+heroImage    = "/images/04_printer_active.png"
 
 newsSectionTitle    = "Latest in Architectural & Construction AM"
 newsSectionSubtitle = "Research, project case studies, and technology news from the architectural additive manufacturing and robotic construction field."
@@ -49,7 +49,7 @@ overviewLabel   = "Materials"
 overviewTitle   = "Architectural Printing Materials"
 overviewText    = "From desktop model to full-scale structure — our material portfolio covers the complete range of architectural printing applications. Full-color resin for presentation models, concrete mix for structural elements, and GRC composite for facade panels."
 overviewText2   = "Timber-effect composite for landscape structures. Polymer composite for interior feature elements. Every material selected and tuned for architectural performance at scale."
-overviewImage   = "https://images.unsplash.com/photo-1624841970647-87dce8628d72?w=800&q=80"
+overviewImage   = "/images/02_parametric_struct.png"
 overviewBtnText = "View Services"
 overviewBtnURL  = "/services/"
 
@@ -68,7 +68,7 @@ newsletterText  = "Concrete printing milestones, facade panel projects, and cons
 
 ctaTitle   = "Build Something Impossible"
 ctaText    = "From a competition model to a 12-metre printed concrete wall — we cover the full scale of architectural additive manufacturing. Tell us about your project."
-ctaImage   = "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1200&q=80"
+ctaImage   = "/images/06_reinforced_section.png"
 ctaBtnText = "Start Your Project"
 ctaBtnURL  = "/contact/"
 
@@ -97,22 +97,22 @@ label  = "Annual Growth CAGR"
 [[params.applications]]
 title       = "Residential & Custom Home"
 description = "Printed concrete foundation walls, bespoke interior feature elements, and custom facade components. Complex curved geometry without formwork cost."
-image       = "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80"
+image       = "/images/11_staircase.png"
 
 [[params.applications]]
 title       = "Commercial & Mixed-Use"
 description = "Parametric facade panels at unitised cladding scale. Office lobby feature walls, retail frontage elements, and branded architectural details."
-image       = "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80"
+image       = "/images/15_facade_modular.png"
 
 [[params.applications]]
 title       = "Cultural & Civic Buildings"
 description = "Competition models, planning submission models, and public realm feature structures. Complex massing studies from BIM data in 72 hours."
-image       = "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?w=800&q=80"
+image       = "/images/07_scale_section.png"
 
 [[params.applications]]
 title       = "Landscape & Infrastructure"
 description = "Printed concrete benches, retaining walls, bridge abutments, and landscape structures with organic form language beyond what formwork allows."
-image       = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+image       = "/images/17_pergola.png"
 
 [[params.servicesPreview]]
 icon        = "🏛️"
@@ -138,25 +138,25 @@ description = "Grasshopper/Rhino to print pipeline. Algorithmic surface generati
 name        = "Precision Scale Models"
 description = "Full-color, multi-material architectural scale models from BIM/CAD data. Context models, massing studies, and design development at 1:50 to 1:500."
 icon        = "🏛️"
-image       = "https://images.unsplash.com/photo-1519662978799-2f05096d3636?w=800&q=80"
+image       = "/images/20_prototype_scale.png"
 
 [[params.services]]
 name        = "Concrete 3D Printing"
 description = "Robotic concrete extrusion for structural walls, columns, and custom form elements. Freeform geometry that formwork cannot economically produce."
 icon        = "🏗️"
-image       = "https://images.unsplash.com/photo-1585366958403-bacb4c36a1a9?w=800&q=80"
+image       = "/images/01_concrete_layers.png"
 
 [[params.services]]
 name        = "Facade Panel Manufacturing"
 description = "GRC (glass fibre reinforced concrete) and polymer composite facade panels with parametric relief patterns. Any surface texture — no mold tooling required."
 icon        = "🧱"
-image       = "https://images.unsplash.com/photo-1717386255773-a456c611dc4e?w=800&q=80"
+image       = "/images/16_hybrid_column.png"
 
 [[params.services]]
 name        = "Parametric Design"
 description = "End-to-end computational design pipeline from Grasshopper/Rhino to fabrication-ready output. Structural optimisation and G-code generation included."
 icon        = "📐"
-image       = "https://images.unsplash.com/photo-1624841970647-87dce8628d72?w=800&q=80"
+image       = "/images/02_parametric_struct.png"
 
 [[params.clusterLinks]]
 name        = "3dprinttile.com"
